@@ -1,1 +1,3 @@
-no required
+discord.py
+flask
+docker
